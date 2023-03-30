@@ -2,7 +2,7 @@
 Decoders to help solving puzzles
 
 ## alphabet.py
-This is to decode alphabets to numbers from 1-26 and vice versa
+This is to decode alphabets to numbers from 1-26 or vice versa
 
 ## ascii.py
 This is to decode numbers or characters between the given ascii codes.
